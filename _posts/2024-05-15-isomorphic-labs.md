@@ -1,4 +1,4 @@
-## AI & Drug Discovery - Isomorphic labs
+## AI \& Drug Discovery - Isomorphic labs
 
 ### Thesis
 Proteins are the fundamental building blocks of life. All living organisms - big and small, plants and animals - are composed of millions of proteins that serve different purposes and perform functions essential to the survival of these organisms. To understand the function of these proteins it’s important to know about their shape (geometry) and structure. This 3D representation of proteins can help us predict their purpose and model their interactions with other substances.
