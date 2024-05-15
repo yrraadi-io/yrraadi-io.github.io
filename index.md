@@ -1,5 +1,5 @@
 Dive into the fascinating world where human ingenuity meets artificial intelligence. I'm Yash, a computer science undergrad at UIUC, originally from Chennai, India. My journey has taken me from founding Diginoor Inc., a venture-backed blockchain startup that raised $1 mil, to exploring the frontiers of AI research.
 
-Here at AI & I, we'll unravel the intricacies of artificial intelligence, delving into cutting-edge technologies, companies shaping the future, and the profound impact AI is having on our world. I'll share insights gleaned from my research in 3D perception and motion planning for embodied systems, along with my perspectives on the broader AI landscape.
+Here at AI and I, we'll unravel the intricacies of artificial intelligence, delving into cutting-edge technologies, companies shaping the future, and the profound impact AI is having on our world. I'll share insights gleaned from my research in 3D perception and motion planning for embodied systems, along with my perspectives on the broader AI landscape.
 
 Join me on this exciting exploration as we uncover the incredible potential of AI and its implications for the future of humanity.
